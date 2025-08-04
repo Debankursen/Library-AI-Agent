@@ -48,11 +48,16 @@ The Library AI Agent, leveraging IBM Cloud Lite services and the enterprise-grad
 highly personalized, adaptive learning environments. Beyond resource recommendations, it will offer multimodal engagement, understanding user needs through text, voice, and even video. Fine-tuned IBM Granite models will provide advanced research support, including citation analysis and literature reviews. The agent will become proactive, anticipating needs and suggesting personalized learning pathways, potentially integrating with adaptive learning platforms. It will also enhance accessibility through real-time translation and features for users with disabilities. This evolution transforms libraries into intelligent, inclusive hubs for learning and research
 
 # Result
+
 <img width="1918" height="879" alt="Image" src="https://github.com/user-attachments/assets/8825a0bf-33da-405f-b875-a7fa936d8706" />
-# Result
 
 # Result
 
+<img width="938" height="886" alt="Image" src="https://github.com/user-attachments/assets/bcccb196-f59c-4255-a9a2-e21632c1686e" />
+
+# Result
+
+ 
 # Result
 
 # IBM Certifications
