@@ -60,5 +60,6 @@ highly personalized, adaptive learning environments. Beyond resource recommendat
 
 # IBM Certifications
 <img width="1053" height="801" alt="Image" src="https://github.com/user-attachments/assets/3014c2ee-cb8b-4b4e-a194-e1c6a9e79163" />
-# IBM Certifications
+
+# BM lab Certificate<img 
 <img width="1049" height="353" alt="Image" src="https://github.com/user-attachments/assets/7d4c4244-300e-4fdc-b734-e86d1e98c60b" />
