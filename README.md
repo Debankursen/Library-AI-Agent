@@ -1,6 +1,8 @@
 # Library-AI-Agent
 A Library AI Agent is an intelligent system designed to assist students in finding the right learning materials based on their academic needs. It can autonomously analyze user profiles, study topics, and course syllabus to suggest relevant books and resources
+
 ![Image](https://github.com/user-attachments/assets/8e5b77e3-ca8b-4c9e-9663-16505c6fb52f)
+
 # Problem Statement
 A Library AI Agent is an intelligent system designed to assist students in finding the right learning materials based on their academic needs. It can autonomously analyze user profiles, study topics, and course syllabus to suggest relevant books and resources. Using natural language processing, it understands student queries and matches them with the most suitable books in the library database. The agent can check real-time book availability, prioritize high-demand titles, and assist with reservation or waitlist actions. It saves time by streamlining the search process and offering personalized recommendations aligned with current academic work. Library AI Agents enhance access, engagement, and resource utilization in educational environments.
 
@@ -57,6 +59,7 @@ highly personalized, adaptive learning environments. Beyond resource recommendat
 
 # Result
 
+<img width="947" height="800" alt="Image" src="https://github.com/user-attachments/assets/b8204452-4596-4a13-b494-6c64a2fe7d37" />
  
 # Result
 
