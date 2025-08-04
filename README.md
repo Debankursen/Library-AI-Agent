@@ -20,10 +20,10 @@ In essence, the Library AI Agent seeks to transform the traditional library expe
 ▪️ IBM Granite model
 
 # IBM cloud services used
-IBM Cloud Watsonx AI Studio
-IBM Cloud Watsonx AI runtime
-IBM Cloud Agent Lab
-IBM Granite foundation mode
+.IBM Cloud Watsonx AI Studio
+.IBM Cloud Watsonx AI runtime
+.IBM Cloud Agent Lab
+.IBM Granite foundation mode
 
 # WOW FACTORS
 Personalized learning pathways
@@ -37,9 +37,9 @@ Utilizing IBM Granite's language translation capabilities, the agent can cater t
 These innovative features, powered by IBM Granite's robust AI capabilities and leveraging the scalability of IBM Cloud Lite, elevate the library experience from a static repository to a dynamic and interactive learning hub.
 
 # End users
-Academic Researchers
-Research Institutions and Universities
-Educators
+.Academic Researchers
+.Research Institutions and Universities
+.Educators
 
 # Conclusion
 The Library AI Agent, leveraging IBM Cloud Lite services and the enterprise-grade capabilities of IBM Granite, represents a significant step towards modernizing libraries. This solution combines advanced AI for understanding student needs and recommending resources with the cost-effectiveness and flexibility of a cloud platform. By focusing on NLP, recommendation engines, and real-time data analysis, it streamlines access to learning materials and offers personalized services. The use of IBM Granite ensures high performance, security, and the ability to customize for specific library requirements. The Library AI Agent transforms libraries into intelligent hubs, enhancing both resource management and the student learning experience.
