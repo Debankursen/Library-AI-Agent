@@ -1,6 +1,6 @@
 # Library-AI-Agent
 A Library AI Agent is an intelligent system designed to assist students in finding the right learning materials based on their academic needs. It can autonomously analyze user profiles, study topics, and course syllabus to suggest relevant books and resources
-
+![Image](https://github.com/user-attachments/assets/8e5b77e3-ca8b-4c9e-9663-16505c6fb52f)
 # Problem Statement
 A Library AI Agent is an intelligent system designed to assist students in finding the right learning materials based on their academic needs. It can autonomously analyze user profiles, study topics, and course syllabus to suggest relevant books and resources. Using natural language processing, it understands student queries and matches them with the most suitable books in the library database. The agent can check real-time book availability, prioritize high-demand titles, and assist with reservation or waitlist actions. It saves time by streamlining the search process and offering personalized recommendations aligned with current academic work. Library AI Agents enhance access, engagement, and resource utilization in educational environments.
 
@@ -47,5 +47,17 @@ The Library AI Agent, leveraging IBM Cloud Lite services and the enterprise-grad
 # Future scope
 highly personalized, adaptive learning environments. Beyond resource recommendations, it will offer multimodal engagement, understanding user needs through text, voice, and even video. Fine-tuned IBM Granite models will provide advanced research support, including citation analysis and literature reviews. The agent will become proactive, anticipating needs and suggesting personalized learning pathways, potentially integrating with adaptive learning platforms. It will also enhance accessibility through real-time translation and features for users with disabilities. This evolution transforms libraries into intelligent, inclusive hubs for learning and research
 
+# Result
 
+# Result
+
+# Result
+
+# Result
+
+# IBM Certifications
+
+# IBM Certifications
+
+# IBM Certifications
 
