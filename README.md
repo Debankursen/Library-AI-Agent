@@ -59,6 +59,6 @@ highly personalized, adaptive learning environments. Beyond resource recommendat
 <img width="1138" height="831" alt="Image" src="https://github.com/user-attachments/assets/cbc83321-e600-4e2d-af7b-8e123eee6d67" />
 
 # IBM Certifications
-
+<img width="1053" height="801" alt="Image" src="https://github.com/user-attachments/assets/3014c2ee-cb8b-4b4e-a194-e1c6a9e79163" />
 # IBM Certifications
 
